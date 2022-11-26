@@ -7,7 +7,7 @@ Status: Detected (Mhyprot) | Solution: 5 Minute BattlEye Bypass
 
 1. Start ARK: Survival Evolved from Steam, with BattlEye turned off.
 2. Inject the DLL "Wildcard.dll" with any VAC undetected Injector.
-3. Result: Join any BattlEye protected Server you want and Cheat for 5 Minutes without ever getting banned.
+3. Join any BattlEye protected Server you want and Cheat for 5 Minutes without ever getting banned.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 Additional Information: 
@@ -23,10 +23,10 @@ How do i Update the Cheat?
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
 
-- Player ESP
-- Dino ESP
-- Structure ESP
-- Dino Rotation Exploit
+Player ESP
+Dino ESP
+Structure ESP
+Dino Rotation Exploit
 
 Basic ESP
 1. Box
