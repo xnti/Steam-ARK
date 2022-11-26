@@ -23,10 +23,10 @@ How do i Update the Cheat?
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
 
-Player ESP
-Dino ESP
-Structure ESP
-Dino Rotation Exploit
+- Player ESP
+- Dino ESP
+- Structure ESP
+- Dino Rotation Exploit
 
 Basic ESP
 1. Box
