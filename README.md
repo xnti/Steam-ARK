@@ -3,11 +3,6 @@ ARK Public External made by Kyners#6470
 Status: Detected (Mhyprot)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-Additional Information: 
-
-You can still get banned manually through reports of Players on Unofficial or Official, but BattlEye will never automatically Ban you since its not running.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
 How do i Update the Cheat?
 
 1. Finding New UWorld + GNames
