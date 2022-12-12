@@ -8,7 +8,7 @@ How do i Update the Cheat?
 1. Finding New UWorld + GNames
 - Launch IDA, go to View - Names and Search for: 
 
-UWorldProxy GWorld
+UWorldProxy GWorld | 
 FNameEntry ***GFNameTableForDebuggerVisualizers_MT
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
