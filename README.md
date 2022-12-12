@@ -6,7 +6,7 @@ Status: Detected (Mhyprot)
 How do i Update the Cheat?
 
 1. Finding New UWorld + GNames
-- Launch IDA, go to View - Names and Search for: UWorldProxy GWorld | You need to find GNames yourself :D
+- Launch IDA, go to View - Names and Search for: UWorldProxy GWorld | FNameEntry ***GFNameTableForDebuggerVisualizers_MT
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
